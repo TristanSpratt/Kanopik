@@ -4,6 +4,10 @@ Kanopik is an AI-powered research assistant that helps you quickly understand th
 
 ---
 
+## Video Demo
+
+[![Watch the demo on YouTube](https://img.youtube.com/vi/0JmcYtW8SRU/0.jpg)](https://www.youtube.com/watch?v=0JmcYtW8SRU)
+
 ## What Kanopik Does
 
 Kanopik automates the hardest parts of a literature review:
