@@ -1,0 +1,8 @@
+*.env
+__pycache__/
+*.pyc
+summary_sources/*.json
+digests/
+lit_reviews/
+Kanopik Demo Raw.*
+Kanopik Demo.*

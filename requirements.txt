@@ -1,0 +1,21 @@
+# Core app + UI
+streamlit
+
+# LLM
+openai
+
+# Environment variables
+python-dotenv
+
+# Research sources (for now)
+arxiv
+biopython
+requests
+
+# Voice input/output
+speechrecognition
+pyaudio        # required by SpeechRecognition for mic input
+elevenlabs
+
+# Optional extras for better CLI experience or fallback logic
+tqdm
